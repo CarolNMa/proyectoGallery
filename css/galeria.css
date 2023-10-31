@@ -1,0 +1,27 @@
+body{
+
+.logolink {
+    
+    text-decoration: none;
+  }
+  
+  .logo-img {
+    
+    width: 30px; 
+    height: auto;
+    border-radius: 7px;
+    padding: 1px;
+    left: 3%;
+
+  }
+  
+}
+
+.header{
+  text-align: center;
+  left: 20%;
+}
+
+
+
+
